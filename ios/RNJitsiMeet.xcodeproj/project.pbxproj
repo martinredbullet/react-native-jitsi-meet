@@ -224,7 +224,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
-					"\"${PODS_ROOT}/JitsiMeetSDK/Frameworks\"",
+					"$(SRCROOT)/../../ios/pods/JitsiMeetSDK/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -247,7 +247,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
-					"\"${PODS_ROOT}/JitsiMeetSDK/Frameworks\"",
+					"$(SRCROOT)/../../ios/pods/JitsiMeetSDK/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
