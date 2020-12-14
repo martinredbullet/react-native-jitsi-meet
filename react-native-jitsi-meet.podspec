@@ -16,4 +16,5 @@ Pod::Spec.new do |s|
   s.source_files  = "ios/**/*.{h,m}"
 
   s.dependency 'React'
+  pod "JitsiMeetSDK", :git => "https://github.com/martinredbullet/JitsiSDK.git"
 end
